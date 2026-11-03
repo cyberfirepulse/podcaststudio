@@ -1,0 +1,12 @@
+Podcast Studio 1.48.1 - publicatie
+
+Repository: cyberfirepulse/podcaststudio
+Branch: main
+Release: v1.48.1
+Bestand: PodcastStudio_1_48_Setup.exe
+
+De repository bevat uitsluitend publieke documentatie, huisstijl, licentieteksten en update.json. Geen broncode, licentiebeheer of persoonlijke bestanden.
+
+Publiceer eerst de release met de installer en SHA256SUMS.txt. Werk daarna update.json in main bij. De app leest https://raw.githubusercontent.com/cyberfirepulse/podcaststudio/main/update.json.
+
+De live repository en release moeten na publicatie worden gecontroleerd; dit lokale bestand bevestigt geen online publicatie.

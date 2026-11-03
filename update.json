@@ -1,0 +1,11 @@
+{
+  "product": "PodcastStudio",
+  "version": "1.48.1",
+  "channel": "stable",
+  "download_url": "https://github.com/cyberfirepulse/podcaststudio/releases/download/v1.48.1/PodcastStudio_1_48_Setup.exe",
+  "notes": {
+    "nl": "Verbeterd projectbeheer, herstel en ontbrekende bronnen herstellen; contact, hulp en licentieoverzicht toegevoegd; previewfout gerepareerd.",
+    "en": "Improved project management, recovery and missing-source relinking; added contact, help and license overview; fixed preview error."
+  },
+  "sha256": "1c1f20ccf6a508e951a19ae28f910274d42a0b371262b43707d8c90b1b7dc955"
+}

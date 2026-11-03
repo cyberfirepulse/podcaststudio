@@ -1,0 +1,29 @@
+﻿PODCAST STUDIO - SOFTWARE LICENSE AGREEMENT
+CyberFirePulse - version 1, 2 November 2026
+
+1. SCOPE
+This agreement covers the proprietary components of Podcast Studio provided by CyberFirePulse. By accepting, you agree to these terms. Separate arrangements regarding purchase, edition, term and activations remain applicable. This text creates no payment or subscription obligation that has not been separately agreed.
+
+2. RIGHT TO USE
+You receive a non-exclusive right to install and use lawfully obtained software for personal and business podcast productions within the limits of your supplied license. Features may depend on edition, activation and available external components. Do not publish personal license keys or share them without authorization.
+
+3. OWNERSHIP AND COPIES
+Rights in the proprietary software components remain with their owners. Necessary backup copies are permitted. Do not sell or distribute those components as your own product without permission, except where applicable law or a separate license permits it. Statutory rights concerning examination, interoperability, backups and other mandatory exceptions remain intact.
+
+4. YOUR CONTENT
+You retain your rights in your own scripts, recordings and podcasts. This agreement gives CyberFirePulse no ownership of that content. Obtain the necessary rights and permission for music, sounds, images and voices, and for their use and publication. Use a replicated voice only with the necessary permission. Voice models and online services may have additional terms.
+
+5. EXTERNAL COMPONENTS AND SERVICES
+External libraries, programs and models retain their own licenses. This agreement does not restrict their rights, including any rights to source code and redistribution. In a conflict, the external license takes precedence for that component. License notices remain applicable. Separately downloaded audio tools and models have their own terms. Online features, including Edge TTS, publishing and activation, may send data to the provider. Choose those features only if you agree; provider terms may also apply.
+
+6. OPERATION AND SUPPORT
+Speech generation and audio editing may produce errors or interruptions. Review output and keep backups. CyberFirePulse makes no additional guarantee of error-free operation or continued availability of external services. Support, updates and new features follow separate arrangements. Statutory conformity, warranty and remedy rights remain applicable.
+
+7. LIABILITY
+To the extent permitted by law, CyberFirePulse is not liable for indirect losses, including consequential loss, lost revenue or lost savings. This limitation does not apply to intentional misconduct or deliberate recklessness by management, liability that cannot legally be excluded, or mandatory consumer rights. Obligations and remedies that cannot be excluded remain fully applicable.
+
+8. ENDING USE
+You may end use by removing the proprietary software components. For a material breach, CyberFirePulse may terminate the right to use after written notice and, where the breach can be remedied, a reasonable opportunity to do so. Your content remains yours. Rights under external licenses continue under those licenses.
+
+9. OTHER PROVISIONS
+This agreement does not restrict mandatory protections. If a provision is invalid, the other provisions continue insofar as reasonable and lawful. The Dutch and English versions are intended to have equivalent meaning; statutory interpretation and consumer rules remain applicable. No mandatory exclusive court or waiver of statutory rights is agreed.
